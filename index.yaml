@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  hello-debugger:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2020-11-27T16:36:51.889246+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e8ada4113f00f2a19ad229b0c776fd7564bd57bd1c025bf2ae2d79fec2d304c2
+    name: hello-debugger
+    type: application
+    urls:
+    - hello-debugger-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2020-11-27T16:36:51.890116+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f684d7e573f44cf5bc5f736b845d36a5cbaf565e07d6f268a09241c7493a9d18
+    name: hello-debugger
+    type: application
+    urls:
+    - hello-world-chart/hello-debugger-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-27T16:36:51.887464+05:30"
